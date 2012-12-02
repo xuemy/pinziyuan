@@ -1,0 +1,8 @@
+.nav-bar .nav-bar-inner  > ul.menu  > li a {
+  font-size: 13pt;
+}
+.container {
+    width: 940px ;
+    margin: auto;
+    background-color: #fff;
+}
